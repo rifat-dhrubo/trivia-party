@@ -18,7 +18,7 @@ const WrapperDiv = styled.div`
   background: #3b4d4e;
   height: 100vh;
   flex-wrap: wrap;
-  overflow: hidden;
+  overflow-x: hidden;
 `;
 
 export default Landing;
