@@ -8,10 +8,14 @@ export default function Menu() {
         <StyledLink to="newGame">Single Player</StyledLink>
       </Row>
       <Row>
-        <Button type="button">Single Player</Button>
+        <Button type="button" disabled>
+          Single Player
+        </Button>
       </Row>
       <Row>
-        <Button type="button">Single Player</Button>
+        <Button type="button" disabled>
+          Single Player
+        </Button>
       </Row>
     </MenuBar>
   );
